@@ -120,7 +120,7 @@ label{
 
 .textDown{
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2.0rem;
     margin-top: 10px;
     font-weight: 800;
     color:black;
@@ -253,11 +253,16 @@ h1{
     
 }
 
-p{
-    color: white;
-    font-size: 1.0rem;
+.textDown p{
+    color: black;
+    font-size: 1.6rem;
     
 }
+
+div p{
+    color: white;
+}
+
 
 .col img{
     width: 100%;
